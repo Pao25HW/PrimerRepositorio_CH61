@@ -1,6 +1,6 @@
-# \# PrimerRepositorio\_CH61
+# PrimerRepositorio\_CH61
 
-\## Primer Repositorio de prueba para la CH61
+Primer Repositorio de prueba para la CH61
 
 
 
