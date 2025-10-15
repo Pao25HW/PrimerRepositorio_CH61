@@ -4,7 +4,7 @@
 
 
 
-Este repositorio es para probar el \*\*flujo local\*\* y \*\*remoto\*\* con el comando git
+Este repositorio es para probar el **flujo local** y **remoto** con el comando git
 
 
 
